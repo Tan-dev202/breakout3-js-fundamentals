@@ -32,7 +32,7 @@ console.log("Let's go outside!");
 let temperature = 35;
 console.log(temperature > 30 ? "Hot day" : "Comfortable day");
 
-// Check if the user is logged in or has vip access
+// Check if the user is logged in or has special guest access
 let isLoggedIn = false; 
 let guestAccess = true; 
 if (isLoggedIn || guestAccess) {
